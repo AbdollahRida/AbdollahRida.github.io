@@ -4,8 +4,8 @@ main:
     url: /about/    
 
   - title: "Projects"
-    url: /year-archive/
-    
+    url: /projects/
+
   - title: "CV"
     url: /cv/
     

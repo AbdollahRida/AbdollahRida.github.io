@@ -27,7 +27,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "light"
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -84,7 +84,7 @@ author:
   location         : "Paris, France"
   employer         :
   googlescholar    : 
-  email            :
+  email            : "abdollah.rida@polytechnique.edu"
   uri              :
   bitbucket        :
   codepen          :

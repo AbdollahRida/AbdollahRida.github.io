@@ -21,14 +21,14 @@ Education
 
 Work experience
 ======
-* July 2017 - August 2017: Collaborator, **Al Amana Microfinance**, *Morocco*
+* __July 2017 - August 2017__: Collaborator, **Al Amana Microfinance**, *Morocco*
   * Member of the marketing team tasked to study the feasibility of a micro-loan for small Moroccan cooperative companies
   * Led a market research and benchmarking in the micro-finance sector
   * Offered legal and financial counseling and solutions
   * Submitted a pre-feasibility file about the project
   * Interviewed members of craft cooperatives to test the project on a small scale
 
-* September 2016 - April 2017: Educator, **Apprentis d'Auteuil**, *Maison Daniel Brottier Boarding School*
+* __September 2016 - April 2017__: Educator, **Apprentis d'Auteuil**, *Maison Daniel Brottier Boarding School*
   * Educator and teacher following many boarding-school pupils and assisting them with their problems
   * Taught Mathematics, Physics and English to students in 7th grade and above
   * Surveyed alumni of the boarding school and created a database in order to run statistics
@@ -42,9 +42,9 @@ Skills and Qualifications
 
 Memberships and activities
 ======
-* April 2017 - Present: Head of the Communication Dept., **X-Entreprises**
+* __April 2017 - Present__: Head of the Communication Dept., **X-Entreprises**
   * Organized the X-Forum 2017 and currently preparing the 2018 edition.
 
-* May 2017: Participant, **Paris Model United Nations**
+* __May 2017__: Participant, **Paris Model United Nations**
   * Represented Finland in the United Nations Environment Program committee
   

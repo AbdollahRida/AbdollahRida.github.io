@@ -4,9 +4,5 @@ excerpt: "Data analysis and machine learning on french healthcare data <br/><br/
 collection: portfolio
 ---
 
-Short Summary
-
-Latex report PDF
-
-equations
+**Coming Soon...**
 

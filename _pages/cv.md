@@ -23,7 +23,7 @@ Education
 
 Work experience
 ======
-* __July 2017 - August 2017__: Collaborator, **Al Amana Microfinance**, *Morocco*
+* __July 2017 - August 2017__: Consultant, **Al Amana Microfinance**, *Morocco*
   * Member of the marketing team tasked to study the feasibility of a micro-loan for small Moroccan cooperative companies
   * Led a market research and benchmarking in the micro-finance sector
   * Offered legal and financial counseling and solutions

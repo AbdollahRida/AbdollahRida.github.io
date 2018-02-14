@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a style="line-height: 1.5;" href="http://AbdollahRida.github.io/Abdollah RIDA - CV 1.pdf"><span style="color: #333333;"><span style="font-size: medium;">Also available in PDF format.</span></span></a>
+<a style="line-height: 1.5;" href="http://AbdollahRida.github.io/Abdollah RIDA-CV.pdf"><span style="color: #333333;"><span style="font-size: medium;">Also available in PDF format.</span></span></a>
 <h1 class="western" align="center"><b>Abdollah Rida</b></h1>
 <p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Undergraduate student at École polytechnique</b> </span></p>
 

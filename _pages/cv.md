@@ -15,7 +15,7 @@ redirect_from:
 
 Objective
 ======
-To combine my innovation skills with knowledge of cutting-edge technology as an intern of a creative finance firm.
+To combine my innovation skills with knowledge of cutting-edge technology as a summer intern in the finance sector.
 
 Education
 ======
@@ -44,6 +44,10 @@ Skills and Qualifications
 
 Memberships and activities
 ======
+* __October 2017 - Present__: Director of External Relations, **Journal Télévisé de l'X**
+  * Management of the relationships with our partners.
+  * COntract and mission negotiation with our clients.
+  
 * __April 2017 - Present__: Head of the Communication Dept., **X-Entreprises**
   * Organized the X-Forum 2017 and currently preparing the 2018 edition.
 

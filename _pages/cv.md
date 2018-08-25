@@ -15,14 +15,23 @@ redirect_from:
 
 Objective
 ======
-To combine my innovation skills with knowledge of cutting-edge technology as a summer intern in the finance sector.
+To combine my innovation skills with knowledge of cutting-edge technology as an intern in the finance sector.
 
 Education
 ======
-* *Polytechnician Engineer Program*, **École polytechnique**, 2016 - 2020
+* *Polytechnician Engineer Program*, **École polytechnique**, 2016 - 2020:
+  Financial Mathematics - Operations Research - Machine/Deep Learning - Statistics \& Risk Analysis}
+  
+  Additional education through seminars in: Architecture, Private and Administrative Law, Public Finances, Market Research,                Company and Injury Assessment.
 
 Work experience
 ======
+* __June 2018 - September 2018__: Assistant Model Risk Manager, **BNP Paribas**, *Paris*
+  * Member of the RISK Independent Review and Control team (RISK IRC) tasked with studying new and innovative credit risk modeling  solutions.
+  * Independent review of several used models. Model challenging using cutting-edge mathematical techniques.
+  * Study of several state-of-the-art methods and implementation within the BNP-Paribas framework.
+  * Deployment and implementation of a complete Machine Learning solution for credit scoring and probability of default prediction within BASEL III.
+
 * __July 2017 - August 2017__: Consultant, **Al Amana Microfinance**, *Morocco*
   * Member of the marketing team tasked to study the feasibility of a micro-loan for small Moroccan cooperative companies
   * Led a market research and benchmarking in the micro-finance sector
@@ -44,13 +53,15 @@ Skills and Qualifications
 
 Memberships and activities
 ======
+* __March 2018 - Pesent__: President, **X-Ray**
+  * President of the school's radio. 
+  * Management of radio talks, shows, panel and guests.
+
 * __October 2017 - Present__: Director of External Relations, **Journal Télévisé de l'X**
   * Management of the relationships with our partners.
   * COntract and mission negotiation with our clients.
   
-* __April 2017 - Present__: Head of the Communication Dept., **X-Entreprises**
+* __April 2017 - May 2018__: Head of the Communication Dept., **X-Entreprises**
   * Organized the X-Forum 2017 and currently preparing the 2018 edition.
 
-* __May 2017__: Participant, **Paris Model United Nations**
-  * Represented Finland in the United Nations Environment Program committee
   

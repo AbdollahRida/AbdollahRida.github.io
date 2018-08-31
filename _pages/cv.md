@@ -60,9 +60,9 @@ Memberships and activities
 
 * __October 2017 - Present__: Director of External Relations, **Journal Télévisé de l'X**
   * Management of the relationships with our partners.
-  * COntract and mission negotiation with our clients.
+  * Contract and mission negotiation with our clients.
   
 * __April 2017 - May 2018__: Head of the Communication Dept., **X-Entreprises**
-  * Organized the X-Forum 2017 and currently preparing the 2018 edition.
+  * Head of the Communication department. Organized the X-Forum 2017.
 
   

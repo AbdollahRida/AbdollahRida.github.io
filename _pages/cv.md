@@ -20,7 +20,8 @@ To combine my innovation skills with knowledge of cutting-edge technology as an 
 Education
 ======
 * *Polytechnician Engineer Program*, **École polytechnique**, 2016 - 2020:
-  Financial Mathematics - Operations Research - Machine/Deep Learning - Statistics \& Risk Analysis}
+
+  Financial Mathematics - Operations Research - Machine/Deep Learning - Statistics & Risk Analysis
   
   Additional education through seminars in: Architecture, Private and Administrative Law, Public Finances, Market Research,                Company and Injury Assessment.
 
@@ -30,7 +31,7 @@ Work experience
   * Member of the RISK Independent Review and Control team (RISK IRC) tasked with studying new and innovative credit risk modeling  solutions.
   * Independent review of several used models. Model challenging using cutting-edge mathematical techniques.
   * Study of several state-of-the-art methods and implementation within the BNP-Paribas framework.
-  * Deployment and implementation of a complete Machine Learning solution for credit scoring and probability of default prediction within BASEL III.
+  * Study of a complete Machine Learning approach for credit scoring and probability of default prediction within BASEL II.
 
 * __July 2017 - August 2017__: Consultant, **Al Amana Microfinance**, *Morocco*
   * Member of the marketing team tasked to study the feasibility of a micro-loan for small Moroccan cooperative companies

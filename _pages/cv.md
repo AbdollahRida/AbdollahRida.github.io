@@ -11,17 +11,17 @@ redirect_from:
 
 <a style="line-height: 1.5;" href="http://AbdollahRida.github.io/Abdollah RIDA - CV.pdf"><span style="color: #333333;"><span style="font-size: medium;">Also available in PDF format.</span></span></a>
 <h1 class="western" align="center"><b>Abdollah Rida</b></h1>
-<p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Undergraduate student at École polytechnique</b> </span></p>
+<p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>MSc. Student at École polytechnique</b> </span></p>
 
 Objective
 ======
-To combine my innovation skills with knowledge of cutting-edge technology as an intern in the finance sector.
+To learn more about finance through combining my mathematical knowledge and financial modeling experience as an intern in a leading innovative company.
 
 Education
 ======
 * *Polytechnician Engineer Program*, **École polytechnique**, 2016 - 2020:
 
-  Financial Mathematics - Operations Research - Machine/Deep Learning - Statistics & Risk Analysis
+  Financial Mathematics - Operations Research - Machine/Deep Learning - Statistics & Game Theory
   
   Additional education through seminars in: Architecture, Private and Administrative Law, Public Finances, Market Research,                Company and Injury Assessment.
 
@@ -54,7 +54,11 @@ Skills and Qualifications
 
 Memberships and activities
 ======
-* __March 2018 - Pesent__: President, **X-Ray**
+* __October 2018__: Speaker, **BNP Paribas RISK IRC Seminar**
+  * Led a talk about Machine Learning for Credit Scoring and Probability of Default curve calibration.
+  * Presented my work in front of 70+ RISK experts from all over the world.
+  
+* __March 2018 - Present__: President, **X-Ray**
   * President of the school's radio. 
   * Management of radio talks, shows, panel and guests.
 
@@ -62,7 +66,6 @@ Memberships and activities
   * Management of the relationships with our partners.
   * Contract and mission negotiation with our clients.
   
-* __April 2017 - May 2018__: Head of the Communication Dept., **X-Entreprises**
-  * Head of the Communication department. Organized the X-Forum 2017.
+
 
   

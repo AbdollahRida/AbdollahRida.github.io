@@ -4,4 +4,9 @@ excerpt: "Computing Option price using the CRR model. <br/><br/><img src='https:
 collection: portfolio
 ---
 
-**Coming Soon...**
+# The Cox-Ross-Rubinstein model:
+
+The Black-Scholes formula is the cornerstone for option pricing and has paved the way to more complex derivatives pricing models.
+To understand the Black-Schoels model, we must first have a look at the Cox-Ross-Rubinstein model. 
+
+**iPyNB is coming soon**

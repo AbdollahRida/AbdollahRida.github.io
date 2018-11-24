@@ -46,11 +46,10 @@ Work experience
   * Surveyed alumni of the boarding school and created a database in order to run statistics
   * Studied and submitted guidelines to optimize and enhace the boarding school's social impact
   
-Skills and Qualifications
+Skills and Languages
 ======
-* Computer Skills: Microsoft Office Suite, Programming in Java, Python and R
-* Proven leadership and public speaking experience through student associations and work experience
-* Goal and quality oriented. High adaptability and quick response to changing circumstances
+* Computer Skills: Programming in Python (Machine Learning), Java, C++ & R. Typesetting in LATEX
+* __French & Arabic:__ Native; __English:__ Fluent; __Spanish:__ Working proficiency.
 
 Memberships and activities
 ======

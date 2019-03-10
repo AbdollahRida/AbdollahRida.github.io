@@ -4,7 +4,7 @@ excerpt: "Study of Market Impact modelization using Hawkes' processes. <br/><br/
 collection: portfolio
 ---
 
-You can find the paper here: 
+<a style="line-height: 1.5;" href="http://AbdollahRida.github.io/MAP511_Rapport.pdf"><span style="color: #333333;"><span style="font-size: medium;">You can find the paper here.</span></span></a>
 
 # Hawkes' Process:
 

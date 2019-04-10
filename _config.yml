@@ -10,7 +10,7 @@ locale                   : "fr-FR"
 title                    : "Abdollah Rida"
 title_separator          : "-"
 name                     : &name "Abdollah Rida"
-description              : &description "Undergraduate student at École polytechnique"
+description              : &description "Graduate student at École polytechnique"
 url                      : https://AbdollahRida.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AbdollahRida/AbdollahRida.github.io"
@@ -81,7 +81,7 @@ author:
   name             : "Abdollah Rida"
   avatar           : "22382309_10213014302623971_1563557063055376512_o.jpg"
   bio              : "Boxer, guitar player and graduate student at <a style='color: black;' href='https://www.polytechnique.edu/en'>École polytechnique</a>"
-  location         : "Paris, France"
+  location         : "Manhattan, New York"
   employer         :
   googlescholar    : 
   email            : "abdollah.rida@polytechnique.edu"

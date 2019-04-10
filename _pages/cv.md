@@ -27,6 +27,9 @@ Education
 
 Work experience
 ======
+* __April 2019 - Present__: Quantitative Researcher, **BNP Paribas**, *New York*
+  * Building probability of default prediction and credit scoring models using Machine/Deep Learning as a member of the RISK Independent Review and Control team (RISK IRC).
+  
 * __June 2018 - September 2018__: Assistant Model Risk Manager, **BNP Paribas**, *Paris*
   * Member of the RISK Independent Review and Control team (RISK IRC) tasked with studying new and innovative credit risk modeling  solutions.
   * Independent review of several used models. Model challenging using cutting-edge mathematical techniques.

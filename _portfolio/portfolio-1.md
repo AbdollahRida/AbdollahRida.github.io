@@ -1,8 +1,0 @@
----
-title: "Painkillers addiction prediction (FR)"
-excerpt: "Data analysis and machine learning on french healthcare data <br/><br/><img src='/images/painkillers.jpg'>"
-collection: portfolio
----
-
-**Coming Soon...**
-

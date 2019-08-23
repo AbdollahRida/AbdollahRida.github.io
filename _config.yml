@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "fr-FR"
+locale                   : "en-US"
 title                    : "Abdollah Rida"
 title_separator          : "-"
 name                     : &name "Abdollah Rida"
-description              : &description "Graduate student at École polytechnique"
+description              : &description "Graduate student at UC Berkeley"
 url                      : https://AbdollahRida.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AbdollahRida/AbdollahRida.github.io"
@@ -81,7 +81,7 @@ author:
   name             : "Abdollah Rida"
   avatar           : "22382309_10213014302623971_1563557063055376512_o.jpg"
   bio              : "Boxer, guitar player and graduate student at <a style='color: black;' href='https://www.polytechnique.edu/en'>École polytechnique</a>"
-  location         : "Manhattan, New York"
+  location         : "Berkeley, California"
   employer         :
   googlescholar    : 
   email            : "abdollah.rida@polytechnique.edu"

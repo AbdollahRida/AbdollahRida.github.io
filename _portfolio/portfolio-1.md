@@ -12,7 +12,7 @@ In this report we try to conduct a classical statistical analysis of fi- nancial
 
 *References*
 
-[1] https://github.com/abdollahrida/deeplearning/tree/master/rgan- pytorch/map565.
+[1] https://github.com/abdollahrida/deeplearning/tree/master/rgan-pytorch/map565.
 
 [2] https://github.com/ckmarkoh/gan-tensorflow.
 

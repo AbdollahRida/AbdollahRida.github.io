@@ -16,7 +16,7 @@ redirect_from:
 Objective
 ======
 To learn more about artificial intelligence for finance through combining my Machine/Deep Learning and probabilistic
-modeling experience as an intern in a leading and innovative company.
+modeling experience in a leading and innovative company.
 
 Education
 ======
@@ -65,18 +65,15 @@ Skills and Languages
 
 Memberships and activities
 ======
-* __October 2018__: Speaker, **BNP Paribas RISK IRC Seminar**
+* __Oct 2019__: Ecole Polytechnique, **Research Internship Award**
+  * Given for my work at BNP Paribas’ New York Offices. Awarded to the Master Research Thesis with the most positive and helpful impact for companies.
+* __Aug 2019__: UC Berkeley, **Opportunity Grant Recipient**
+  * Awarded the MEng Opportunity Grant, an honor that comes with an award of $16,000.
+* __Oct 2018__: Speaker, **BNP Paribas RISK IRC Seminar**
   * Led a talk about Machine Learning for Credit Scoring and Probability of Default curve calibration.
   * Presented my work in front of 70+ RISK experts from all over the world.
-  
-* __March 2018 - Present__: President, **X-Ray**
-  * President of the school's radio. 
-  * Management of radio talks, shows, panel and guests.
-
-* __October 2017 - Present__: Director of External Relations, **Journal Télévisé de l'X**
-  * Management of the relationships with our partners.
-  * Contract and mission negotiation with our clients.
-  
+* __Jun 2018__: Oliver Wyman, **Start Here 2018**
+  * Start Here 2018 finalist. Completed a business case study with three other teammates and presented our work in front of Managing Partners from Europe and USA in OW’s New York City offices.  
 
 
   

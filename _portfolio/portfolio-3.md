@@ -6,7 +6,21 @@ collection: portfolio
 
 <b><a style="line-height: 1.5;" href="http://AbdollahRida.github.io/Internship_Thesis(1).pdf"><span style="color: #333333;"><span style="font-size: medium;">You can find the thesis here.</span></span></a></b>
 
+*Quick Description*
+---------
+This memoir has the particularity to present a full Machine Learning project compliant with a stringent (US) risk management regulation. It is a full transposition of a strong ML theoretical framework (Boosting) to a major concern for commercial banks (managing on a daily basis the credit risk of large portfolios).
+In the perspective of challenging models in production relying on classical (linear or logistic) regression approaches, XGBoost has been selected because of its following particularities:
+ 
+* It deals with non linearities
+* Optimized to run fast on massive datasets, allowing to consider it as a potential model in production
+* Handles missing values [cf. p. 12]
+* Interpretable with Shapley values [cf. p.19, §5.2.1]
+
+The resulting model shows better performances than the one in production and can be easily integrated in the Model Management framework of the Bank. It also opens promising perspectives on an in-depth systematic and standardized model challenging approach.
+It can be noted that the approach deals with concerns very usual in credit risk such as imbalanced classes and uses solutions applicable to any ML approach (resampling and loss function reweighting) [cf. Annex B.1]
+
 *Abstract*
+----------
 
 Credit Scoring is one of the problems banks and financial institutions have to solve on a daily basis. If the state-of-the-art research in Machine and Deep Learning for finance has reached interesting results about Credit Scoring models, usage of such models in a heavily regulated context ([5], [1], [3], [4]) such as the one in banks has never been done so far.
 Our work is thus a tentative to challenge the current regulatory status-quo and introduce new BASEL 2 and 3 compliant techniques, while still answering the Federal Reserve Bank and the European Central Bank requirements.
@@ -14,6 +28,7 @@ With the help of Gradient Boosting Machines (mainly XGBoost [9]) we challenge an
 Furthermore, we leverage the power of Shapley Values [16] to prove that these relatively simple models are not as black-box as the current regulatory system thinks they are, and we attempt to explain the model outputs and Credit Scores within the BANK A Model Design and Validation framework.
 
 *References*
+------------
 
 [1] Federal reserve supervisory assessment of capital planning and positions for large and noncomplex firms.
 

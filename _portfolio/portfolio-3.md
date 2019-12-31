@@ -4,7 +4,7 @@ excerpt: "My Master Thesis written after my research internship at the BNP Parib
 collection: portfolio
 ---
 
-<b><a style="line-height: 1.5;" href="http://AbdollahRida.github.io/Internship_Thesis(1).pdf"><span style="color: #333333;"><span style="font-size: medium;">You can find the thesis here.</span></span></a></b>
+<b><a style="line-height: 1.5;" href="https://www.researchgate.net/publication/336617810_Machine_and_Deep_Learning_for_Credit_Scoring_A_compliant_Approach"><span style="color: #333333;"><span style="font-size: medium;">You can find the thesis here.</span></span></a></b>
 
 *Quick Description*
 ---------
